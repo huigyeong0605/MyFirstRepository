@@ -1,5 +1,8 @@
-# MyFirstRepository
+# 19173051 김희경
 
-Hello My name is HuiGyeong
+## 1주차 과제
 
+## 2주차 과제
 <img width="" height="" src="./PNG/run.png"></img>
+
+## 3주차 과제
