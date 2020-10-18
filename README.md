@@ -16,4 +16,4 @@
 
 ## 7주차 과제
 <img width="" height="" src="./PNG/실행화면_강아지.png"></img>
-<img width="" height="" src="./PNG/실행화면_.png"></img>
+<img width="" height="" src="./PNG/실행화면_고양이.png"></img>
