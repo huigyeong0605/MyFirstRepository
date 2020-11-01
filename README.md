@@ -17,3 +17,9 @@
 ## 7주차 과제
 <img width="" height="" src="./PNG/실행화면_강아지.png"></img>
 <img width="" height="" src="./PNG/실행화면_고양이.png"></img>
+
+## 9주차 과제
+<img width="" height="" src="./PNG/image1_실행캡쳐(넓이).png"></img>
+<img width="" height="" src="./PNG/image1_실행캡쳐(높이).png"></img>
+<img width="" height="" src="./PNG/image2_실행캡쳐(넓이).png"></img>
+<img width="" height="" src="./PNG/image2_실행캡쳐(높이).png"></img>
