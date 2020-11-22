@@ -33,4 +33,4 @@
 <img width="" height="" src="./PNG/실행3.png"></img>
 
 ## 12주차 과제
-<img width="" height="" src="./PNG/실행.png"></img>
+<img width="" height="" src="./PNG/실행화면.png"></img>
